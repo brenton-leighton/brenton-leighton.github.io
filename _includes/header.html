@@ -1,0 +1,23 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
+    {%- assign page_titles = site.pages | map: 'title' | compact %}
+
+    <div style="width: 30%; float: right; padding: 1em">
+      <img src="./images/photo.jpg" alt="" >
+    </div>
+
+    <a class="site-title" rel="author" style="font-size: 2.75em; margin-top: 1em; margin-bottom: 0.75em" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+
+    <div style="clear: left"></div>
+
+    <p style="line-height: 2em">
+      <a href="https://github.com/brenton-leighton">github.com/brenton-leighton</a><br>
+      <a href="https://www.linkedin.com/in/brentonleighton">linkedin.com/in/brentonleighton</a><br>
+    </p>
+
+  </div>
+</header>
