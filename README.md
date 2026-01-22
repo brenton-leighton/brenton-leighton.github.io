@@ -1,34 +1,5 @@
-I'm a robotics engineer with 10+ years of experience across software, mechanical, and electrical engineering. In particular I'm experienced with perception, visual SLAM, planning, and multi-agent systems, and with C++, Python, ROS, and Docker.
-
-<!--
-# Skills/interests
-<hr style="margin-top: 0.5em">
-
-<table style="border:0">
-  <tr style="vertical-align:top;border:0">
-    <td style="width:50%;border:0">
-      <ul>
-        <li>C++</li>
-        <li>Python</li>
-        <li>ROS</li>
-        <li>Git</li>
-        <li>Docker</li>
-      </ul>
-    </td>
-    <td style="width:50%;border:0">
-      <ul>
-        <li>Computer vision</li>
-        <li>SLAM</li>
-        <li>Path planning</li>
-        <li>Task planning and execution</li>
-        <li>Multi-agent systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
--->
+I'm a robotics engineer with 10+ years of experience across software, mechanical, and electrical engineering.
+I've worked on perception for autonomous vehicles, written efficient and high performance hardware drivers and processing nodes for ROS, designed and implemented system architectures for complex multi-robot systems, and worked on visual SLAM, path planning, and task planning and execution.
 
 <hr style="margin-top: 2em; margin-bottom: 1em; border-style: solid; border-color: LightGray">
 
@@ -38,9 +9,9 @@ I'm a robotics engineer with 10+ years of experience across software, mechanical
 <h2 style="line-height: 1.75em; margin-top: 0em; margin-bottom: 0.3em">Conigital Australia<br>
 Senior Engineer</h2>
 
-<p style="margin-top: 0em; margin-bottom: 1.25em"><em>10/2021 to present</em></p>
+<p style="margin-top: 0em; margin-bottom: 1.25em"><em>10/2021 to 10/2025</em></p>
 
-I'm currently a senior engineer at Conigital, a company developing autonomous vehicles for research institutions and government projects.
+I was a senior engineer at Conigital, a company developing autonomous vehicles for research institutions and government projects.
 Initially I mainly worked on perception, managing the perception stack and (in collaboration with a machine learning engineer) integrating machine learning models for image/point cloud object detection, classification and tracking, image/point cloud segmentation, position estimation and tracking.
 I also wrote ROS nodes for image processing with OpenCV, point cloud processing (e.g. merging and undistorting) with PCL, and video streaming with gstreamer.
 
